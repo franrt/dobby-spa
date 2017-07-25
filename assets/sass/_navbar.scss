@@ -1,3 +1,21 @@
+nav {
+    background-color: black;
+    color: $beige;
+    margin: $centre;
+    padding: 0;
+    border: none;
+}
+
 .navbar {
     background-color: black;
+    color: $beige;
+    margin: $centre;
+    padding: 0;
+    border: none;
+}
+
+.navbar {
+    a {
+        color: $color2;
+    }
 }

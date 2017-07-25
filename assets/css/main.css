@@ -5797,8 +5797,28 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+nav {
+  background-color: black;
+  color: #dbbe84;
+  margin: 0 auto;
+  padding: 0;
+  border: none; }
+
 .navbar {
-  background-color: black; }
+  background-color: black;
+  color: #dbbe84;
+  margin: 0 auto;
+  padding: 0;
+  border: none; }
+
+.navbar a {
+  color: #ffba00; }
+
+.img-circle {
+  border: solid #dbbe84 10px; }
+
+#thumbs {
+  margin-top: -100px; }
 
 .centre p {
   margin: 0 auto; }
